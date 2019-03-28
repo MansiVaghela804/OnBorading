@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnBoardingScreen</string>
+    <string name="next">Next</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Got It</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+</resources>
